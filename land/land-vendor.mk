@@ -1506,6 +1506,7 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     libloc_api_v02 \
     QtiTelephonyService \
+    SimSettings \
     ims \
     imssettings \
     CNEService \
